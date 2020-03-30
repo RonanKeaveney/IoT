@@ -23,7 +23,7 @@ Derived from Yún HTTP Client Sketch
 /////////////////
 
 // Add your PushingBox Scenario DeviceID here:
-  char devid[] = "v963896FDE673C9F";
+  char devid[] = "vF33C3218881C646";
   
   //////////////
  //   End    //
